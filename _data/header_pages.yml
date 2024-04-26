@@ -1,0 +1,22 @@
+links:
+- title: "Home"
+  href: "/"
+- title: "Locations"
+  href: "/locations/"
+- title: "Our Vision"
+  href: "/vision"
+- title: "Resources"
+  href: "/resources/"
+- title: "Articls"
+  subcategories:
+    - subtitle: "Popular Articles"
+      subhref: "/popular-articles/"
+    - subtitle: "Recent Articles"
+      subhref: "/recent-articles/"
+      subcategories:
+        - subtitle: "article1"
+          subhref: "/articles/article1/"
+        - subtitle: "Article2"
+          subhref: "/articles/article2/"
+- title: "About"
+  href: "/about-us"

@@ -50,7 +50,7 @@ permalink: /about-us/
 
 <div class="about-us-team yellow-background">
     <div class="page-wrapper">
-        <div class="title"><h2>TEAM Members</h2></div>
+        <div class="title"><h2>Team Members</h2></div>
             <div class="about-us-teams">
                 <div class="about-us-team-member">
                     <div class="about-us-team-member-image">

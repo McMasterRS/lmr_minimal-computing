@@ -20,7 +20,7 @@ permalink: /about-us/
     <div class="page-wrapper">
         <div class="about-us-vision-content">
             <div class="about-us-vision-image">
-                <img src="./assets/img/about_vision_image.jpg" alt="">
+                <img src="/minimal-computing-web-guide/assets/img/about_vision_image.jpg" alt="">
                 <p>Image retrived from https://pixabay.com/</p>
             </div>
             <div class="about-us-vision-text">    

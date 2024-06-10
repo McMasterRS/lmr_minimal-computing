@@ -54,7 +54,7 @@ permalink: /about-us/
             <div class="about-us-teams">
                 <div class="about-us-team-member">
                     <div class="about-us-team-member-image">
-                        <img src="./assets/img/about_teams.webp" alt="" />
+                        <img src="/assets/img/about_teams.webp" alt="" />
                     </div>
                     <div class="about-us-team-member-name">
                         <p>Name</p>

@@ -22,7 +22,7 @@ title: Sample Project
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Minimal computing site example used for the presentation of Minimal computing presented by the Research software Development team at McMaster university
-baseurl: "/minimal-computing-web-guide" # the subpath of your site, e.g. /blog
+baseurl: "/lmr_minimal-computing" # the subpath of your site, e.g. /blog
 url: "https://McMasterRS.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

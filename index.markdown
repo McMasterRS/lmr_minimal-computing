@@ -25,7 +25,7 @@ layout: home
         </div>
         <div class="explore">
           <p>Explore Now</p>
-          <p><img src="/assets/img/arrow.png" alt="arrow" /></p>
+          <p><img src="./assets/img/arrow.png" alt="arrow" /></p>
         </div>
       </a>
       <a class="landing-image2" href="#">
@@ -35,7 +35,7 @@ layout: home
         </div>
         <div class="explore">
           <p>Explore Now</p>
-          <p><img src="/assets/img/arrow.png" alt="arrow" /></p>
+          <p><img src="./assets/img/arrow.png" alt="arrow" /></p>
         </div>
       </a>
       <a class="landing-image3" href="#">
@@ -45,7 +45,7 @@ layout: home
         </div>
         <div class="explore">
           <p>Explore Now</p>
-          <p><img src="/assets/img/arrow.png" alt="arrow" /></p>
+          <p><img src="./assets/img/arrow.png" alt="arrow" /></p>
         </div>
       </a>
       <a class="landing-image4" href="#">
@@ -55,7 +55,7 @@ layout: home
         </div>
         <div class="explore">
           <p>Explore Now</p>
-          <p><img src="/assets/img/arrow.png" alt="arrow" /></p>
+          <p><img src="./assets/img/arrow.png" alt="arrow" /></p>
         </div>
       </a>
       <a class="landing-image5" href="#">
@@ -65,7 +65,7 @@ layout: home
         </div>
         <div class="explore">
           <p>Explore Now</p>
-          <p><img src="/assets/img/arrow.png" alt="arrow" /></p>
+          <p><img src="./assets/img/arrow.png" alt="arrow" /></p>
         </div>
       </a>
       <a class="landing-image6" href="#">
@@ -75,7 +75,7 @@ layout: home
         </div>
         <div class="explore">
           <p>Explore Now</p>
-          <p><img src="/assets/img/arrow.png" alt="arrow" /></p>
+          <p><img src="./assets/img/arrow.png" alt="arrow" /></p>
         </div>
       </a>
       <!-- Add more image links as needed -->
@@ -97,7 +97,7 @@ layout: home
         </div>
         <div class="explore">
           <p>Explore Now</p>
-          <p><img src="/assets/img/arrow.png" alt="arrow" /></p>
+          <p><img src="./assets/img/arrow.png" alt="arrow" /></p>
         </div>
       </a>
     </div>

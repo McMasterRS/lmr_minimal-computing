@@ -1,1 +1,0 @@
-# minimal-computing-web-guide

@@ -1,1 +1,1 @@
-# minimal-computing-web-guide
+# lmr_minimal-computing

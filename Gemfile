@@ -35,7 +35,7 @@ gem 'i18n', '~> 1.14', '>= 1.14.5'
 gem 'concurrent-ruby', '1.2.3'
 gem 'sass-embedded', "~> 1.75.0"
 gem 'rexml', '3.3.9'
-gem 'google-protobuf', '4.26.1'
+gem 'google-protobuf', '4.27.5'
 gem "public_suffix", "~> 5.0.4"
 gem 'rb-inotify', '~> 0.10.1'
 gem 'ffi', '1.16.3'

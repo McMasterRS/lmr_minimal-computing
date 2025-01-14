@@ -78,7 +78,7 @@ GEM
       tzinfo (>= 1.0.0)
     unicode-display_width (2.5.0)
     wdm (0.1.1)
-    webrick (1.8.1)
+    webrick (1.8.2)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -90,7 +90,6 @@ DEPENDENCIES
   google-protobuf (= 4.26.1)
   http_parser.rb (~> 0.6.0)
   i18n (~> 1.14, >= 1.14.5)
-  jekyll (~> 4.3.3)
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
   public_suffix (~> 5.0.4)

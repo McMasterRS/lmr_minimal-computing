@@ -34,7 +34,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem 'i18n', '~> 1.14', '>= 1.14.5'
 gem 'concurrent-ruby', '1.2.3'
 gem 'sass-embedded', "~> 1.75.0"
-gem 'rexml', '3.3.9'
+gem 'rexml', '3.4.2'
 gem 'google-protobuf', '4.27.5'
 gem "public_suffix", "~> 5.0.4"
 gem 'rb-inotify', '~> 0.10.1'
